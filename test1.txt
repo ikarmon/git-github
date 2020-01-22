@@ -3,3 +3,5 @@ This is my new git text.
 I am a python developer.
 
 I live in Lubbock.
+
+I love to play soccer.
